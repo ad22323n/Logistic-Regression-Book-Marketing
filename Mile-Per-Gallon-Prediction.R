@@ -90,5 +90,3 @@ head(PredictValue)
 we used Multiple Linear Regression methods to find the mpg of the car. We had 8 columns out of which 4 were collinear to each other. we got the best model with only two predictors. 
 log(mpg)=8.0395+log(weight)∗−.9341+year∗.0328
 
-
-
