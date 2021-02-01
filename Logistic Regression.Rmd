@@ -126,6 +126,5 @@ Now for all the observations in the test data set,we use predict function to com
 ```{r}
 
 predTest<-predict(fitlog, type="response", testSet)
-
 ```
 
